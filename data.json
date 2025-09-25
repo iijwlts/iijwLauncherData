@@ -2,5 +2,5 @@
   "program": "videoDL",
   "version": "v1.0.6",
   "binary_url": "https://github.com/randomname124290358349/videoDL/releases/download/v1.0.6/VideoDL.exe",
-  "README": "# VideoDL\n\nA modern, user-friendly video downloader application. Uses yt-dlp as the backend to batch-download videos.\n\nFeatures: concurrent downloads (1-10), clean UI with status updates and logs, automatic yt-dlp updates, visual status tracking, and detailed logging.\n\nInstallation (summary): download the pre-built VideoDL.exe from Releases or build from source (clone repo, `pip install -r requirements.txt`, then `python main.py`).\n\nPlatforms: Windows (pre-built executable available), Linux and macOS (build from source).\n\nTechnical: Python 3.8+, PyQt6 UI, yt-dlp downloader, uses QThreadPool for concurrency.\n\nBuilding (summary): example PyInstaller command provided in repo for creating the Windows executable.\n\nContributing and acknowledgments: contributions welcome; acknowledges yt-dlp and PyQt."
+  "README": "# VideoDL\n\nA modern, user-friendly video downloader application. Uses yt-dlp as the backend to batch-download videos."
 }]
